@@ -1,0 +1,78 @@
+/* * {
+    background-color: #E3D5CA;
+} */
+
+body {
+    background-color: #e3d5ca;
+}
+
+h1 {
+    background-color: #D5BDAF;
+    color: #423e3c;
+    font-family: 'Parisienne';
+    text-align: center;
+    border: 6px dashed;
+    text-shadow: #423e3c;
+    font-size: 80px;
+    margin-inline: 80px;
+}
+
+
+
+#tip1 {
+    background-color: #F5EBE0;
+    font-family: 'Sail';
+    text-align: center;
+    border: 3px dotted #D5BDAF;
+    font-size: 170%;
+    margin: #F5EBE0;
+    padding: 60px;
+    width: 650px;
+}
+
+#tip2 {
+    position: absolute;
+    right: 20px;
+    width: 650px;
+    border: 3px dotted #D5BDAF;
+    padding: 60px;
+    background-color: #F5EBE0;
+    font-family: 'Sail';
+    text-align: center;
+    font-size: 170%;
+    margin-right: 20px;
+    margin-top: 150px;
+    margin-left: 10px;
+    /* padding-right: 20px; */
+}
+
+.additional {
+    background-color: #EDEDE9;
+    font-family: 'Sail';
+    text-align: center;
+    border: 3px dotted #927462;
+    font-size: 200%;
+    margin: 50px;
+    padding: 50px;
+    width: 650px;
+}
+
+#facts {
+    position: absolute;
+    right: 100px;
+    width: 300px;
+    border: 3px dotted #c99a7f;
+    padding: 60px;
+    background-color: #D5BDAF;
+    font-family: 'Sail';
+    text-align: center;
+    font-size: 100%;
+    margin-right: 20px;
+    margin-top: 400px;
+    margin-left: 10px;
+    list-style-type: square;
+}
+
+ul {
+    list-style-type: inherit;
+}
